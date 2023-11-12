@@ -147,7 +147,7 @@ pytz==2023.3
 pytz-deprecation-shim==0.1.0.post0
 pyxnat==1.6
 PyYAML==6.0
-pyzstd==0.15.8
+pyzstd==0.15.9
 queuelib==1.6.2
 rarfile==4.0
 rdflib==7.0.0
